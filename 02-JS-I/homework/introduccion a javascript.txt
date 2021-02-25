@@ -1,0 +1,13 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables - Variables are memory spaces in our computer in which we are able to store distinct type od data.
+	* Strings - A string is a data type used in programming, such as an integer and floating point unit, but is used to represent text rather than numbers. It is comprised of a set of characters that can also contain spaces and numbers. 
+	* Funciones (argumentos, `return`) - A function is a group of reusable code which can be called anywhere in your program. This eliminates the need of writing the same code again and again.Functions allow a programmer to divide a big program into a number of small and manageable functions.
+     A JavaScript function can have an optional return statement. This is required if you want to return a value from a function. This statement should be the last statement in a function. In other words,the return statement stops the execution of a function and returns a value from that function.
+
+
+	* Declaraciones `if` - if statement  is a conditional statement used in JS. Conditional statements are used to decide the flow of execution based on different conditions. If a condition is true, you can perform one action and if the condition is false, you can perform another action.
+
+
+
+	* Valores booleanos (`true`, `false`) - A JavaScript Boolean represents one of two values: true or false. It is a data type used in JS.
