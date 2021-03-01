@@ -1,0 +1,23 @@
+ En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for` - The for statement creates a loop that is executed as long as a condition is true. The loop will continue to run as long as the condition is true. It will only stop when the condition becomes false.
+
+JavaScript supports different kinds of loops:
+
+for - loops through a block of code a number of times
+for/in - loops through the properties of an object
+for/of - loops through the values of an iterable object
+while - loops through a block of code while a specified condition is true
+do/while - loops through a block of code once, and then repeats the loop while a specified condition is true
+
+
+
+* `&&`, `||`, `!` - Logical operators are used to determine the logic between variables or values.
+
+
+Given that x = 6 and y = 3, the table below explains the logical operators:
+
+Operator	Description	        Example	
+&&	          and	     (x < 10 && y > 1) is true	
+||	          or	     (x == 5 || y == 5) is false	
+!	         not	     !(x == y) is true
