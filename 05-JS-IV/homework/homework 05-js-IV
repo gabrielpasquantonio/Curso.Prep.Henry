@@ -1,0 +1,20 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión. 
+
+	* Objects - Object is a non-primitive data type in JavaScript. It is like any other variable, the only difference is that an object holds multiple values in terms of properties and methods. Properties can hold values of primitive data types and methods are functions.
+
+	* Properties - Properties are the values associated with a JavaScript object.
+    A JavaScript object is a collection of unordered properties.
+    Properties can usually be changed, added, and deleted, but some are read only.
+	
+    * Methods - JavaScript methods are actions that can be performed on objects.
+    A JavaScript method is a property containing a function definition.
+
+
+	* Statement `for…in` - The for/in statement loops through the properties of an object.
+    The block of code inside the loop will be executed once for each property.
+
+
+
+
+
+	* Notación de puntos vs notación de corchetes - The dot notation and bracket notation both are used to access the object properties in JavaScript. The dot notation is used mostly as it is easier to read and comprehend and also less verbose. The main difference between dot notation and bracket notation is that the bracket notation allows us to access object properties using variable.
