@@ -1,0 +1,20 @@
+ `prototype` The prototype is an object that is associated with every functions and objects by default in JavaScript, where function's prototype property is accessible and modifiable and object's prototype property (aka attribute) is not visible.
+
+Every function includes prototype object by default. The prototype object is special type of enumerable object to which additional properties can be attached to it which will be shared across all the instances of it's constructor function.
+
+Every object which is created using literal syntax or constructor syntax with the new keyword, includes __proto__ property that points to prototype object of a function that created this object.
+
+The prototype property is special type of enumerable object which cannot be iterate using for..in or foreach loop.
+The prototype object is being used by JavaScript engine in two things, 1) to find properties and methods of an object 2) to implement inheritance in JavaScript.
+
+* _Constructors_ (de Clases)
+
+In JavaScript, the thing called this is the object that "owns" the code.
+
+The value of this, when used in an object, is the object itself.
+
+In a constructor function this does not have a value. It is a substitute for the new object. The value of this will become the new object when a new object is created.
+
+The constructor method is a special method for creating and initializing an object created with a class. There can only be one special method with the name "constructor" in a class. A SyntaxError will be thrown if the class contains more than one occurrence of a constructor method.
+
+A constructor can use the super keyword to call the constructor of the super class.
